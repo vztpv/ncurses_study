@@ -5,5 +5,5 @@
     sudo apt-get install g++
     sudo apt-get install libncurses5-dev libncursesw5-dev
 # Compile
-    gcc  filename  -lncurses -o  exename
+    gcc  hello_world.c  -lncurses -o  hello_world
         
